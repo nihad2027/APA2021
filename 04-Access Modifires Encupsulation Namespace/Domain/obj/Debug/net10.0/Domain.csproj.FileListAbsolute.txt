@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\04-Access Modifires Encupsulation Namespace\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\04-Access Modifires Encupsulation Namespace\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\04-Access Modifires Encupsulation Namespace\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\04-Access Modifires Encupsulation Namespace\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache

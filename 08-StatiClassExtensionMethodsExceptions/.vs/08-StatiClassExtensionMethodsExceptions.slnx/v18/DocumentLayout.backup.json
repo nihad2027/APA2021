@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\invalidpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\incorrectpasswordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|c:\\users\\user\\source\\repos\\08-staticlassextensionmethodsexceptions\\08-staticlassextensionmethodsexceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017575D2-7980-6480-1ECE-EAE747A322BC}|08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions.csproj|solutionrelative:08-staticlassextensionmethodsexceptions\\accountlockedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\LoginSystem.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\LoginSystem.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:23:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\User.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\User.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:19:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncorrectPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\IncorrectPasswordException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\IncorrectPasswordException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\IncorrectPasswordException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\IncorrectPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:04:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:01:06.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidPasswordException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\InvalidPasswordException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\InvalidPasswordException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\InvalidPasswordException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\InvalidPasswordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:58:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\InvalidUsernameException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\InvalidUsernameException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\InvalidUsernameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:53:24.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T11:52:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountLockedException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\AccountLockedException.cs",
+              "RelativeDocumentMoniker": "08-StatiClassExtensionMethodsExceptions\\AccountLockedException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\08-StatiClassExtensionMethodsExceptions\\08-StatiClassExtensionMethodsExceptions\\AccountLockedException.cs",
+              "RelativeToolTip": "08-StatiClassExtensionMethodsExceptions\\AccountLockedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:35:17.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

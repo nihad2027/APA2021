@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.AssemblyInfo.cs
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\bin\Debug\net10.0\Task3.Class Keyboards Inheitances.exe
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\bin\Debug\net10.0\Task3.Class Keyboards Inheitances.deps.json
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\bin\Debug\net10.0\Task3.Class Keyboards Inheitances.runtimeconfig.json
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\bin\Debug\net10.0\Task3.Class Keyboards Inheitances.dll
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\bin\Debug\net10.0\Task3.Class Keyboards Inheitances.pdb
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.dll
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\refint\Task3.Class Keyboards Inheitances.dll
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.pdb
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\Task3.Class Keyboards Inheitances.genruntimeconfig.cache
+C:\Users\user\source\repos\Task3.Class Keyboards Inheitances\Task3.Class Keyboards Inheitances\obj\Debug\net10.0\ref\Task3.Class Keyboards Inheitances.dll

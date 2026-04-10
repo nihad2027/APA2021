@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.exe
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.deps.json
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.runtimeconfig.json
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\bin\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.pdb
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.AssemblyInfo.cs
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\refint\09-UpcastingDowncastingExplicitImplicit.dll
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.pdb
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\09-UpcastingDowncastingExplicitImplicit.genruntimeconfig.cache
+C:\Users\user\source\repos\09-UpcastingDowncastingExplicitImplicit\obj\Debug\net10.0\ref\09-UpcastingDowncastingExplicitImplicit.dll

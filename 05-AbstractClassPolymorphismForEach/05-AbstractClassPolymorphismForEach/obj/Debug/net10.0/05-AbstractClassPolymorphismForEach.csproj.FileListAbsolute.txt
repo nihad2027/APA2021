@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.AssemblyInfo.cs
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.exe
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.deps.json
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.runtimeconfig.json
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.dll
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.pdb
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.dll
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\refint\05-AbstractClassPolymorphismForEach.dll
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.pdb
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.genruntimeconfig.cache
+C:\Users\user\source\repos\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\ref\05-AbstractClassPolymorphismForEach.dll

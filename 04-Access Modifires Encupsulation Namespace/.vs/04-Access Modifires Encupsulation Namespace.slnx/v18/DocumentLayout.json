@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|solutionrelative:04-access modifires encupsulation namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|solutionrelative:04-access modifires encupsulation namespace\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|solutionrelative:04-access modifires encupsulation namespace\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|solutionrelative:04-access modifires encupsulation namespace\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\domain\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\domain\\nderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\nderived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|c:\\users\\user\\source\\repos\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36689761-2D32-3DF3-5AE3-531994C7C97C}|04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj|solutionrelative:04-access modifires encupsulation namespace\\04-access modifires encupsulation namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04-Access Modifires Encupsulation Namespace.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj",
+              "RelativeDocumentMoniker": "04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj",
+              "RelativeToolTip": "04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T17:41:14.404Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NDerived.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\Domain\\NDerived.cs",
+              "RelativeDocumentMoniker": "Domain\\NDerived.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\Domain\\NDerived.cs",
+              "RelativeToolTip": "Domain\\NDerived.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:47:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\Domain\\Work.cs",
+              "RelativeDocumentMoniker": "Domain\\Work.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\Domain\\Work.cs",
+              "RelativeToolTip": "Domain\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:40:00.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Car.cs",
+              "RelativeDocumentMoniker": "04-Access Modifires Encupsulation Namespace\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Car.cs",
+              "RelativeToolTip": "04-Access Modifires Encupsulation Namespace\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:33:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Student.cs",
+              "RelativeDocumentMoniker": "04-Access Modifires Encupsulation Namespace\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Student.cs",
+              "RelativeToolTip": "04-Access Modifires Encupsulation Namespace\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:18:22.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Person.cs",
+              "RelativeDocumentMoniker": "04-Access Modifires Encupsulation Namespace\\Person.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Person.cs",
+              "RelativeToolTip": "04-Access Modifires Encupsulation Namespace\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:18:05.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "04-Access Modifires Encupsulation Namespace\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\04-Access Modifires Encupsulation Namespace\\04-Access Modifires Encupsulation Namespace\\Program.cs",
+              "RelativeToolTip": "04-Access Modifires Encupsulation Namespace\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:17:22.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

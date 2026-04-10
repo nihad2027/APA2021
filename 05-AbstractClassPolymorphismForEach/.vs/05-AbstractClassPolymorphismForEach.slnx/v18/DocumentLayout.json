@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\user\\source\\repos\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\user\\source\\repos\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\user\\source\\repos\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\user\\source\\repos\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\user\\source\\repos\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21E4640-1AB5-4810-A437-00C788DE4C6E}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Truck.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:17:55.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Motorcycle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:04:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Car.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Car.cs",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Car.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:51:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:27:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:19:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
