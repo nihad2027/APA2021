@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>16-Tables</title>
+</head>
+
+<style>
+    table,
+    tr,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+
+    table,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        text-align: left;
+    }
+
+    table {
+        width: 300px;
+    }
+
+    */ table,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        text-align: center;
+    }
+
+    */ table {
+        border-collapse: collapse;
+        width: 300px;
+    }
+
+    td {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 200px;
+        height: 150px;
+    }
+
+    td {
+        border: 1px solid black;
+        text-align: left;
+        padding: 5px;
+        vertical-align: top;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 20px auto;
+        font-family: Arial, san-serif;
+    }
+
+    th,
+    td {
+        border: 2px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+
+    th {
+        text-decoration: underline;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 300px;
+        margin: 20px auto;
+        font-family: Arial, sans-serif;
+        border: 3px double #5f7a7a;
+    }
+
+    th,
+    td {
+        border: 1px solid #5f7a7a;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .header-main {
+        font-weight: bold;
+        font-size: 1.2m;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td {
+        border: 2px solid green;
+        padding: 15px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        font-family: 'Times New Roman', serif;
+        text-align: center;
+    }
+
+    th,
+    td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+
+    .lunch {
+        font-weight: bold;
+        letter-spacing: 5px;
+        writing-mode: vertical-lr;
+        text-orientation: upright;
+    }
+</style>
+
+<body>
+    <table>
+        <tr>
+            <td colspan="3">Table</td>
+        </tr>
+        <tr>
+            <th colspan="2">Fullname</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td colspan="2">Harry Depp</td>
+            <td>Britain</td>
+        </tr>
+        <tr>
+            <td colspan="2">John Smith</td>
+            <td>USA</td>
+        </tr>
+        <tr>
+            <td colspan="2">Ram Krishna</td>
+            <td>Nepal</td>
+        </tr>
+    </table>
+
+
+    <table>
+       <tr>
+        <td colspan="3">Food</td>
+       </tr>
+        <tr>
+            <th colspan="2">Product</th>
+            <th>Quantity</th>
+        </tr>
+        <tr>
+            <td colspan="2">Butter</td>
+            <td>3 Kilogram</td>
+        </tr>
+        <tr>
+            <td colspan="2">Milk</td>
+            <td>3 Liters</td>
+        </tr>
+    </table>
+
+
+    <table>
+        <tr>
+            <td colspan="2">These are exclusive flavors</td>
+        </tr>
+        <tr>
+            <th>Product</th>
+            <th>Flavors</th>
+        </tr>
+        <tr>
+            <td rowspan="3">Milk</td>
+            <td>Almond</td>
+        </tr>
+        <tr>
+            <td>Mango</td>
+        </tr>
+        <tr>
+            <td>Chocolate</td>
+        </tr>
+    </table>
+
+
+    <table>
+        <tr>
+            <td rowspan="6">section</td>
+            <td rowspan="3">subsection1</td>
+            <td>text1</td>
+        </tr>
+        <tr>
+            <td>text2</td>
+        </tr>
+        <tr>
+            <td>text3</td>
+        </tr>
+        <tr>
+            <td rowspan="2">subsection2</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>subsection3</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td>1</td>
+            <td rowspan="2">2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+        </tr>
+    </table>
+
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <td rowspan="3">1</td>
+            <td rowspan="3">David</td>
+            <td>Maths</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>Physics</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>Computers</td>
+            <td>70</td>
+        </tr>
+        <tr>
+            <td rowspan="3">2</td>
+            <td rowspan="3">Alex</td>
+            <td>Maths</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>Physics</td>
+            <td>70</td>
+        </tr>
+        <tr>
+            <td>Computers</td>
+            <td>90</td>
+        </tr>
+    </table>
+
+
+    <table>
+        <tr>
+            <th colspan="3">Product</th>
+        </tr>
+        <tr>
+            <th>No</th>
+            <th>P.Name</th>
+            <th>P.Count</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Pen</td>
+            <td rowspan="3">50</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Book</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Dust</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td rowspan="2">A</td>
+            <td>B</td>
+            <td rowspan="3">D</td>
+            <td colspan="2">E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td>G</td>
+            <td>H</td>
+            <td rowspan="2">I</td>
+        </tr>
+        <tr>
+            <td colspan="2">J</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td colspan="3">K</td>
+            <td>L</td>
+            <td colspan="2">M</td>
+        </tr>
+    </table>
+
+
+    <h2 style="text-align: center;">Time Table</h2>
+
+    <table>
+        <tr>
+            <th>Day/Period</th>
+            <th>I<br>9:30-10:20</th>
+            <th>II<br>10:20-11:10</th>
+            <th>III<br>11:10-12:00</th>
+            <th>12:00-12:40</th>
+            <th>IV<br>12:40-1:30</th>
+            <th>V<br>1:30-2:20</th>
+            <th>VI<br>2:20-3:10</th>
+            <th>VII<br>3:10-4:00</th>
+        </tr>
+
+        <tr>
+            <td>Monday</td>
+            <td>Eng</td>
+            <td>Mat</td>
+            <td>Che</td>
+            <td rowspan="6" class="lunch">Lunch</td>
+            <td colspan="3">Lab</td>
+            <td>Phy</td>
+        </tr>
+
+        <tr>
+            <td>Tuesday</td>
+            <td colspan="3">Lab</td>
+            <td>Eng</td>
+            <td>Che</td>
+            <td>Mat</td>
+            <td>Sports</td>
+        </tr>
+
+        <tr>
+            <td>Wednesday</td>
+            <td>Mat</td>
+            <td>Phy</td>
+            <td>Eng</td>
+            <td>Che</td>
+            <td colspan="3">Library</td>
+        </tr>
+
+        <tr>
+            <td>Thursday</td>
+            <td>Phy</td>
+            <td>Eng</td>
+            <td>Che</td>
+            <td colspan="3">Lab</td>
+            <td>Mat</td>
+        </tr>
+
+        <tr>
+            <td>Friday</td>
+            <td colspan="3">Lab</td>
+            <td>Mat</td>
+            <td>Che</td>
+            <td>Eng</td>
+            <td>Phy</td>
+        </tr>
+
+        <tr>
+            <td>Saturday</td>
+            <td>Eng</td>
+            <td>Che</td>
+            <td>Mat</td>
+            <td colspan="3">Seminar</td>
+            <td>Sports</td>
+        </tr>
+    </table>
+
+</html>
