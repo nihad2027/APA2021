@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 0%, 100%);
+    margin: 40px;
+}
+
+.container {
+    width: 800px;
+}
+
+.row {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 40px;
+}
+
+.time {
+    width: 220px;
+    font-size: 22px;
+    font-weight: bold;
+    color: hsl(216, 63%, 49%);
+}
+
+.text {
+    width: 500px;
+    line-height: 1.6;
+    color: #333;
+}
+
+
+.normal {
+    font-family: Georgia, serif;
+    font-size: 16px;
+}
+
+
+.fancy {
+    font-family: "Brush Script MT", cursive;
+    font-size: 18px;
+}

@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 0%, 96%);
+    margin: 0;
+    padding: 20px;
+}
+
+.main-container {
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.image-box {
+    background-image: url("../Free-High-Quality-Images-Death-to-the-Stock-Photo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.overlay-text {
+    background: rgba(0, 0, 0, 0.4);
+    color: hsl(51, 100%, 50%);
+    padding: 20px;
+    font-size: 14px;
+    line-height: 1.6;
+    margin: 0 50px;
+    border-radius: 8px;
+}
+
+.content-box {
+    margin-top: 30px;
+}
+
+.yellow-text {
+    color: hsl(46, 65%, 52%);
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.light-text {
+    color: hsl(0, 0%, 80%);
+    font-style: italic;
+}
+
+.footer {
+    margin-top: 50px;
+}

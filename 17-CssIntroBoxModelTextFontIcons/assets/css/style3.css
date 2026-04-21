@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+    background-image: url("https://www.transparenttextures.com/patterns/aged-paper.png");
+    background-color: hsl(40, 33%, 93%);
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    padding: 100px 20px;
+    color: hsl(0, 0%, 17%);
+    background: rgba(245, 241, 232, 0.85);
+}
+
+.small-title {
+    letter-spacing: 5px;
+    color: hsl(38, 41%, 49%);
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+
+.script-title {
+    font-family: 'Great Vibes', cursive;
+    font-size: 110px;
+    margin: 0;
+    color: hsl(0, 0%, 10%);
+}
+
+
+.subtitle {
+    color: hsl(38, 41%, 49%);
+    letter-spacing: 4px;
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.desc {
+    letter-spacing: 3px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+.tagline {
+    font-family: 'Great Vibes', cursive;
+    font-size: 28px;
+    color: hsl(38, 41%, 49%);
+    margin-top: 40px;
+}
+
+
+.footer {
+    margin-top: 80px;
+    font-size: 14px;
+    letter-spacing: 4px;
+    color: hsl(0, 0%, 47%);
+}
