@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\shared\\_christmas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\shared\\_christmas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|c:\\users\\user\\desktop\\apa202\\mvc intro\\mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE9F60C-F588-4E8D-9AA0-2D45CDEBED6D}|MVC Intro\\MVC Intro.csproj|solutionrelative:mvc intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ChristMas.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Shared\\_ChristMas.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Shared\\_ChristMas.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Shared\\_ChristMas.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Shared\\_ChristMas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T17:09:57.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T17:06:09.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T16:50:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T16:41:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC Intro\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC Intro\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:40:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T16:37:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T16:34:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC Intro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC Intro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-04T16:25:08.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC Intro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC Intro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:58:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Program.cs",
+              "RelativeDocumentMoniker": "MVC Intro\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\MVC Intro\\MVC Intro\\Program.cs",
+              "RelativeToolTip": "MVC Intro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T15:55:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

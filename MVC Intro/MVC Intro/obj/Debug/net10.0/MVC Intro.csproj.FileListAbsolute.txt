@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\appsettings.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.staticwebassets.endpoints.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.exe
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.deps.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.runtimeconfig.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.dll
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\bin\Debug\net10.0\MVC Intro.pdb
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.AssemblyInfo.cs
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.sourcelink.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\scopedcss\bundle\MVC Intro.styles.css
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.dll
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\refint\MVC Intro.dll
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.pdb
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.genruntimeconfig.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\ref\MVC Intro.dll
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Apa202\MVC Intro\MVC Intro\obj\Debug\net10.0\MVC Intro.RazorAssemblyInfo.cs
