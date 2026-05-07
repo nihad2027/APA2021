@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DA680E9-3CC2-DBA8-8CC7-2026FDEFB0A7}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA680E9-3CC2-DBA8-8CC7-2026FDEFB0A7}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E99CA9C-3031-4776-A1A2-2ACD30C0D63A}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DA680E9-3CC2-DBA8-8CC7-2026FDEFB0A7}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|c:\\users\\user\\desktop\\apa202\\27-fronttobacksqlconnection\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DA680E9-3CC2-DBA8-8CC7-2026FDEFB0A7}|27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection.csproj|solutionrelative:27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,30 +21,12 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T06:35:17.268Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T06:23:39.225Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -62,10 +36,9 @@
               "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAN0CAAAAAAAAAAAiwOgCAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-06T18:02:52.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T18:02:52.816Z"
             },
             {
               "$type": "Document",
@@ -75,18 +48,10 @@
               "RelativeDocumentMoniker": "27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Apa202\\27-FrontToBackSqlConnection\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
               "RelativeToolTip": "27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T18:01:00.107Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
