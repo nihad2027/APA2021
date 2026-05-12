@@ -17,20 +17,18 @@ namespace _27_FrontToBackSqlConnection
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
 
-            //builder.Services.AddSingleton<EmailService>();
-
-            //builder.Services.AddSingleton<IEmailService, TestService>();
-
-            //builder.Services.AddTransient<EmailService>();
-
-
             var app = builder.Build();
 
             app.UseStaticFiles();
+
+            app.MapControllerRoute(
+                name: "admin",
+                pattern: "{area:exists}/{controller=dashboard}/{action=Index}/{id?}");
+
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
-                .WithStaticAssets();
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+                
 
             app.Run();
         }

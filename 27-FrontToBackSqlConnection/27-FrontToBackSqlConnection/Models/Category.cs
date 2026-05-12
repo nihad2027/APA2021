@@ -1,8 +1,12 @@
-﻿namespace _27_FrontToBackSqlConnection.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace _27_FrontToBackSqlConnection.Models
 {
     public class Category : BaseEntity
     {
-        public string Name { get; set; }
-        public List<Product> Products { get; set; }
+        [Required(ErrorMessage = "Bos olmaz")]
+        [MaxLength(30,ErrorMessage ="Agilli ol")]
+        public string? Name { get; set; }
+        public List<Product>? Products { get; set; }
     }
 }
