@@ -407,6 +407,7 @@ wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.eot
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.ttf
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.woff2
+wwwroot\assets\images\website-images\indir.jpg
 C:\Users\user\Desktop\Apa202\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\wwwroot\assets\css\font-awesome.min.css
 C:\Users\user\Desktop\Apa202\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\wwwroot\assets\css\bootstrap.min.css
 C:\Users\user\Desktop\Apa202\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\wwwroot\assets\css\animate.min.css
