@@ -1,5 +1,9 @@
-﻿using _27_FrontToBackSqlConnection.Data;
+﻿using _27_FrontToBackSqlConnection.Areas.AdminPanel.ViewModels;
+using _27_FrontToBackSqlConnection.Areas.AdminPanel.ViewModels.Sliders;
+using _27_FrontToBackSqlConnection.Data;
 using _27_FrontToBackSqlConnection.Models;
+using _27_FrontToBackSqlConnection.Utilities.Enums;
+using _27_FrontToBackSqlConnection.Utilities.Extentions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,45 +33,104 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             return View();
         }
 
-        //public IActionResult Test()
-        //{
-        //    return Content(Guid.NewGuid().ToString());
-        //}
-
-
         [HttpPost]
-        public async Task<IActionResult> Create(Slider slider)
+        public async Task<IActionResult> Create(SliderCreateVM sliderCreateVM)
         {
             if (!ModelState.IsValid) return View();
-            
 
-            if (!slider.Photo.ContentType.Contains("image/"))
+            // !slider.Photo.ContentType.Contains("image/")
+
+            if (!sliderCreateVM.Photo.CheckFileType("image/"))
             {
-                ModelState.AddModelError(nameof(Slider.Photo), "File type is incorrect");
+                ModelState.AddModelError(nameof(sliderCreateVM.Photo), "File type is incorrect");
                 return View();
             }
-            
-            if(slider.Photo.Length > 2 * 1024 * 1024)
+            // slider.Photo.Length > 2 * 1024 * 1024
+
+            if (!sliderCreateVM.Photo.CheckFileSize(FileSize.MB, 2 ))
             {
-                ModelState.AddModelError(nameof(Slider.Photo), "File size must be less than 2mb!");
+                ModelState.AddModelError(nameof(sliderCreateVM.Photo), "File size must be less than 2mb!");
                 return View();
             }
 
-            string fileName = string.Concat(Guid.NewGuid().ToString(),slider.Photo.FileName);
-
-            string path = Path.Combine(_env.WebRootPath, "assets", "image", "website-images", fileName);
-
-            FileStream fileStream = new FileStream(path,FileMode.Create);
-
-            await slider.Photo.CopyToAsync(fileStream);
-
-            fileStream.Close();
-
-            slider.Image = fileName;
+            Slider slider = new()
+            {
+                Title = sliderCreateVM.Title,
+                Subtitle = sliderCreateVM.Subtitle,
+                Description = sliderCreateVM.Description,
+                Order = sliderCreateVM.Order,
+                Image = await sliderCreateVM.Photo.CreateFile(_env.WebRootPath, "assets", "images", "websie-images")
+            };
 
             await _context.AddAsync(slider);
 
+            await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if(id is null || id < 1) return BadRequest();
+
+            Slider? slider = await _context.Sliders
+                .Where(s=>!s.IsDeleted)
+                .FirstOrDefaultAsync(s=>s.Id == id);
+            
+            if (slider is null) return NotFound();
+
+            SliderDetailVM sliderDetailVM = new()
+            {
+                Title = slider.Title,
+                Subtitle= slider.Subtitle,
+                Description = slider.Description,
+                Order = slider.Order,
+                Image = slider.Image,
+            };
+
+            return View(sliderDetailVM);
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id is null || id < 1) return BadRequest();
+
+            Slider? slider = await _context.Sliders
+                .Where(s => !s.IsDeleted)
+                .FirstOrDefaultAsync(s => s.Id == id);
+
+            if (slider is null) return NotFound();
+
+            _context.Remove(slider);
+
+            await _context.SaveChangesAsync();
+
+            slider.Image.DeleteFile(_env.WebRootPath, "assets","images","website-images");
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null || id < 1) return BadRequest();
+
+            Slider? slider = await _context.Sliders
+                .Where(s => !s.IsDeleted)
+                .FirstOrDefaultAsync(s => s.Id == id);
+
+            if (slider is null) return NotFound();
+
+            SliderUpdateVM sliderUpdateVM = new()
+            {
+                Image = slider.Image,
+                Title = slider.Title,
+                Subtitle = slider.Subtitle,
+                Description = slider.Description,
+                Order = slider.Order,
+            };
+
+
+            return View(sliderUpdateVM);
         }
     }
 }
