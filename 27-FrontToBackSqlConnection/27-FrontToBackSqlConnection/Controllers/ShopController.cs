@@ -19,7 +19,8 @@ namespace _27_FrontToBackSqlConnection.Controllers
         {
             List<Product> products =await _context.Products
                 .Where(p=>!p.IsDeleted)
-                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary != null && pi.IsDeleted == false))
+                .Include(p=>p.ProductImages
+                .Where(pi=>pi.IsPrimary != null && pi.IsDeleted == false))
                 .ToListAsync();
 
             ShopVM shopVM = new()
@@ -38,6 +39,8 @@ namespace _27_FrontToBackSqlConnection.Controllers
                 .Where(p=>!p.IsDeleted)
                 .Include(p=>p.Category)
                 .Include(p=>p.ProductImages)
+                .Include(p=>p.ProductTags)
+                .ThenInclude(pt=>pt.Tag)
                 .FirstOrDefaultAsync(p => p.Id == id);
 
             if(product == null) return NotFound();
