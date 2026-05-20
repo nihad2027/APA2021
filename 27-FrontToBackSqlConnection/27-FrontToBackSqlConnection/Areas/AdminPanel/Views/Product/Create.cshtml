@@ -7,6 +7,21 @@
                 <h4 class="card-title">Create Product</h4>
                 <form class="forms-sample" method="post" enctype="multipart/form-data">
                     <div class="form-group">
+                        <label for="name">MainImage</label>
+                        <input asp-for="MainPhoto" class="form-control" accept="image/">
+                        <span asp-validation-for="MainPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">SecondaryImage</label>
+                        <input asp-for="HoverPhoto" class="form-control" accept="image/">
+                        <span asp-validation-for="HoverPhoto" class="text-danger"></span>
+                    </div>
+                    @* <div class="form-group">
+                        <label for="name">Image</label>
+                        <input asp-for="Name" class="form-control" accept="image/">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div> *@
+                    <div class="form-group">
                         <label for="name">Name</label>
                         <input asp-for="Name" class="form-control" placeholder="Name">
                         <span asp-validation-for="Name" class="text-danger"></span>
@@ -28,7 +43,7 @@
                         <span asp-validation-for="TagIds" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label for="name">Description</label>
+                        <label for="name">Category</label>
                         <select asp-for="CategoryId" class="form-control" asp-items="new SelectList(Model.Categories,nameof(Category.Id),nameof(Category.Name))">
                         </select>
                         <span asp-validation-for="CategoryId" class="text-danger"></span>

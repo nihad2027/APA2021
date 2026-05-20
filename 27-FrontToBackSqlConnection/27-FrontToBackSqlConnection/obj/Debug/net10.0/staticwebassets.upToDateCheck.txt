@@ -296,7 +296,9 @@ wwwroot\assets\images\website-images\3.png
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\indir (1).jpg
 wwwroot\assets\images\website-images\indir.jpg
+wwwroot\assets\images\website-images\J55dKtx2y3UJZ3UvidR5Mo.jpg
 wwwroot\assets\images\website-images\quotation.png
 wwwroot\assets\images\website-images\red-rose-flowers-840x473.jpg
 wwwroot\assets\images\website-images\service.png

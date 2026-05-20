@@ -1,6 +1,8 @@
 ﻿using _27_FrontToBackSqlConnection.Areas.AdminPanel.ViewModels;
 using _27_FrontToBackSqlConnection.Data;
 using _27_FrontToBackSqlConnection.Models;
+using _27_FrontToBackSqlConnection.Utilities.Enums;
+using _27_FrontToBackSqlConnection.Utilities.Extentions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -55,6 +57,30 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
 
             if (!ModelState.IsValid) return View(productCreateVM);
 
+            if (!productCreateVM.MainPhoto.CheckFileType("image/"))
+            {
+                ModelState.AddModelError(nameof(productCreateVM.MainPhoto), "File type is incorrect!");
+                return View(productCreateVM);
+            }
+            if (!productCreateVM.MainPhoto.CheckFileSize(FileSize.MB, 2))
+            {
+                ModelState.AddModelError(nameof(productCreateVM.MainPhoto), "File size must be lees than 2mb!");
+                return View(productCreateVM);
+            }
+
+
+            if (!productCreateVM.HoverPhoto.CheckFileType("image/"))
+            {
+                ModelState.AddModelError(nameof(productCreateVM.HoverPhoto), "File type is incorrect!");
+                return View(productCreateVM);
+            }
+            if (!productCreateVM.HoverPhoto.CheckFileSize(FileSize.MB, 2))
+            {
+                ModelState.AddModelError(nameof(productCreateVM.HoverPhoto), "File size must be lees than 2mb!");
+                return View(productCreateVM);
+            }
+
+
             bool existCategory = productCreateVM.Categories.Any(c => c.Id == productCreateVM.CategoryId);
 
             if (!existCategory)
@@ -73,6 +99,19 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
                 }
             }
 
+            ProductImage mainImage = new()
+            {
+                Image = await productCreateVM.MainPhoto.CreateFile(_env.WebRootPath, "assets", "images", "website-images"),
+                IsPrimary = true,
+            };
+
+            ProductImage hoverImage = new()
+            {
+                Image = await productCreateVM.HoverPhoto.CreateFile(_env.WebRootPath, "assets", "images", "website-images"),
+                IsPrimary = false,
+            };
+
+
             Product product = new()
             {
                 Name = productCreateVM.Name,
@@ -80,6 +119,7 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
                 Description = productCreateVM.Description,
                 SKU = productCreateVM.SKU,
                 CategoryId = productCreateVM.CategoryId.Value,
+                ProductImages = new List<ProductImage> { mainImage , hoverImage}
             };
 
             if(productCreateVM.TagIds is not null)
@@ -123,13 +163,14 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             if(id is null || id < 1) return BadRequest();
 
             productUpdateVM.Categories = await _context.Categories.Where(c => !c.IsDeleted).ToListAsync();
+            productUpdateVM.Tags = await _context.Tags.Where(t => !t.IsDeleted).ToListAsync();
 
             if(!ModelState.IsValid)
             {
                 return View(productUpdateVM);
             }
 
-            Product? product = await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
+            Product? product = await _context.Products.Include(p=>p.ProductTags).FirstOrDefaultAsync(p => p.Id == id);
             if (product is null) return NotFound();
 
             bool existCategory = productUpdateVM.Categories.Any(c=>c.Id == productUpdateVM.CategoryId);
@@ -139,6 +180,32 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
                 return View(productUpdateVM);
             }
 
+            if (productUpdateVM.TagIds is not null)
+            {
+                bool existTag = productUpdateVM.TagIds.Any(tagId => !productUpdateVM.Tags.Exists(t=>t.Id == tagId));
+                if (existTag)
+                {
+                    ModelState.AddModelError(nameof(productUpdateVM.TagIds), "Tag does not exist!");
+                    return View(productUpdateVM);
+                }
+            }
+
+            if (productUpdateVM.TagIds is null)
+            {
+                productUpdateVM.TagIds = new();
+            }
+            
+
+                _context.ProductTags.RemoveRange(product.ProductTags
+               .Where(pTag => productUpdateVM.TagIds
+               .Exists(tId => tId == pTag.TagId)).ToList());
+
+
+
+                _context.ProductTags.AddRange(productUpdateVM.TagIds
+                    .Where(tId => !product.ProductTags.Exists(pTag => pTag.TagId == tId))
+                    .Select(tId => new ProductTag { TagId = tId, ProductId = product.Id })
+                    .ToList());
 
             product.Name = productUpdateVM.Name;
             product.Price = productUpdateVM.Price;
@@ -150,7 +217,5 @@ namespace _27_FrontToBackSqlConnection.Areas.AdminPanel.Controllers
             return RedirectToAction(nameof(Index));
 
         }
-
-        
     }
 }
