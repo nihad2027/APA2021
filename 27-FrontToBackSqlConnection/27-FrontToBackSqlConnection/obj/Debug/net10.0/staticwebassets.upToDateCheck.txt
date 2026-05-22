@@ -246,6 +246,7 @@ wwwroot\assets\images\testimonial\icon\quotation.png
 wwwroot\assets\images\testimonial\user\1.png
 wwwroot\assets\images\testimonial\user\2.png
 wwwroot\assets\images\testimonial\user\3.png
+wwwroot\assets\images\website-images\0e16e5a1-1111-495d-8b24-d18751b4a9251-1-120x120.webp
 wwwroot\assets\images\website-images\1--1rnu4p.png
 wwwroot\assets\images\website-images\1-1-120x120.webp
 wwwroot\assets\images\website-images\1-1-1820x443.jpg
@@ -293,9 +294,18 @@ wwwroot\assets\images\website-images\2-2-70x78.png
 wwwroot\assets\images\website-images\2-3-70x78.png
 wwwroot\assets\images\website-images\2.png
 wwwroot\assets\images\website-images\3.png
+wwwroot\assets\images\website-images\458522b6-c4eb-44ea-b382-443819d088831-2-370x300.jpg
+wwwroot\assets\images\website-images\57236298-8c97-480c-8f2f-c0c9f02b75cd1-3-270x300.jpg
+wwwroot\assets\images\website-images\793afe8e-3150-4341-8067-343f807488281-9-270x300.jpg
+wwwroot\assets\images\website-images\79b4680e-bef4-46b2-81cc-710f2a7b71b61-2-524x617.png
+wwwroot\assets\images\website-images\8d0f8ecc-cace-418e-ac7b-b63cd9c37c661-2-270x300.jpg
+wwwroot\assets\images\website-images\982af14b-45af-4963-b151-daf03d02cc071-5-270x300.jpg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\dark.png
+wwwroot\assets\images\website-images\e226ad66-581f-455b-a0ba-1e441ea7a69e1-2-570x633.jpg
+wwwroot\assets\images\website-images\e6be7e77-de9c-4edb-afaf-edf97620bb101--1rnu4p.png
+wwwroot\assets\images\website-images\fee57028-4b40-48cd-8928-19d1cce2932b1-2-270x300.jpg
 wwwroot\assets\images\website-images\indir (1).jpg
 wwwroot\assets\images\website-images\indir.jpg
 wwwroot\assets\images\website-images\J55dKtx2y3UJZ3UvidR5Mo.jpg
